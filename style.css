@@ -57,6 +57,9 @@ nav .nav-links li a:hover {
     color: #f4a261;
 }
 
+.mobile-view{
+    display: none;
+}
 
 /* Hero Section */
 
